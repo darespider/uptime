@@ -21,10 +21,12 @@ sites:
     url: https://pyload.darespider.family
   - name: Transmission
     url: https://transmission.darespider.family
-  - name: Syncthing
-    url: https://syncthing.darespider.family
   - name: Vaultwarden
     url: https://vaultwarden.darespider.family
+  - name: Syncthing
+    url: https://syncthing.darespider.family
+    headers:
+      - "Authorization: $SYNCTHING_AUTH"
     
 assignees: # Users to assign downtime issues (optional)
   - rurickdev
