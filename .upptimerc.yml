@@ -23,6 +23,8 @@ sites:
     url: https://transmission.darespider.family
   - name: Vaultwarden
     url: https://vaultwarden.darespider.family
+  - name: fake
+    url: https://fake.darespider.family
   - name: Syncthing
     url: https://syncthing.darespider.family
     headers:
