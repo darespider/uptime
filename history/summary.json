@@ -40,9 +40,9 @@
     "url": "https://homer.darespider.family",
     "icon": "https://icons.duckduckgo.com/ip3/homer.darespider.family.ico",
     "slug": "homer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 427,
     "timeMonth": 427,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   },
   {
     "name": "Jellyfin",
@@ -185,11 +187,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncthing.darespider.family.ico",
     "slug": "syncthing",
     "status": "up",
-    "uptime": "26.23%",
-    "uptimeDay": "86.02%",
-    "uptimeWeek": "26.23%",
-    "uptimeMonth": "26.23%",
-    "uptimeYear": "26.23%",
+    "uptime": "28.18%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "28.18%",
+    "uptimeMonth": "28.18%",
+    "uptimeYear": "28.18%",
     "time": 461,
     "timeDay": 542,
     "timeWeek": 461,
