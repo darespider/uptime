@@ -7,8 +7,8 @@ sites:
     url: https://glances.darespider.family
   - name: Raspberry PI Monitor
     url: https://rpi.darespider.family
-  - name: Homer
-    url: https://homer.darespider.family
+  - name: Home
+    url: https://darespider.family
   - name: Jellyfin
     url: https://jellyfin.darespider.family
   - name: Kavita
