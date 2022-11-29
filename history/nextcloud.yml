@@ -1,7 +1,7 @@
 url: https://nextcloud.darespider.family
-status: up
-code: 200
-responseTime: 2467
-lastUpdated: 2022-11-29T15:51:42.217Z
+status: down
+code: 530
+responseTime: 138
+lastUpdated: 2022-11-29T16:31:12.512Z
 startTime: Tue Nov 29 2022 15:44:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
