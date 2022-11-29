@@ -225,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.darespider.family.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "12.71%",
-    "uptimeDay": "12.71%",
-    "uptimeWeek": "12.71%",
-    "uptimeMonth": "12.71%",
-    "uptimeYear": "12.71%",
+    "uptime": "7.38%",
+    "uptimeDay": "7.38%",
+    "uptimeWeek": "7.38%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "7.38%",
     "time": 1594,
     "timeDay": 1594,
     "timeWeek": 1594,
     "timeMonth": 1594,
     "timeYear": 1594,
     "dailyMinutesDown": {
-      "2022-11-29": 0
+      "2022-11-29": 1
     }
   },
   {
