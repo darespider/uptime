@@ -3,30 +3,51 @@ owner: darespider # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
+  # Admin
   - name: Glances
     url: https://glances.darespider.family
   - name: Raspberry PI Monitor
     url: https://rpi.darespider.family
   - name: Home
     url: https://darespider.family
-  - name: Jellyfin
-    url: https://jellyfin.darespider.family
-  - name: Kavita
-    url: https://kavita.darespider.family
-  - name: Komga
-    url: https://komga.darespider.family
   - name: Portainer
     url: https://portainer.darespider.family
-  - name: Pyload
-    url: https://pyload.darespider.family
-  - name: Transmission
-    url: https://transmission.darespider.family
+  - name: Authentik
+    url: https://auth.darespider.family
+  # Multimedia
+  - name: Komga
+    url: https://komga.darespider.family
+  - name: Kavita
+    url: https://kavita.darespider.family
+  - name: Jellyfin
+    url: https://jellyfin.darespider.family
+  - name: Jellyseerr
+    url: https://jellyseerr.darespider.family
+  # Private Cloud
   - name: Vaultwarden
     url: https://vaultwarden.darespider.family
+  - name: Nextcloud
+    url: https://nextcloud.darespider.family
   - name: Syncthing
     url: https://syncthing.darespider.family
     headers:
       - "Authorization: $SYNCTHING_AUTH"
+  # Downloads
+  - name: Pyload
+    url: https://pyload.darespider.family
+  - name: Transmission
+    url: https://transmission.darespider.family
+  # Arr
+  - name: Radarr
+    url: https://radarr.darespider.family
+  - name: Sonarr
+    url: https://sonarr.darespider.family
+  - name: Bazarr
+    url: https://bazarr.darespider.family
+  - name: Prowlarr
+    url: https://prowlarr.darespider.family
+  - name: Mylar3
+    url: https://mylar.darespider.family
     
 assignees: # Users to assign downtime issues (optional)
   - rurickdev
