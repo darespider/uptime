@@ -1,7 +1,7 @@
 url: https://vaultwarden.darespider.family
-status: up
-code: 200
-responseTime: 580
-lastUpdated: 2022-11-29T15:44:37.127Z
+status: down
+code: 530
+responseTime: 142
+lastUpdated: 2022-11-29T16:31:09.361Z
 startTime: Sun Nov 13 2022 18:37:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
