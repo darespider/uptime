@@ -1,7 +1,7 @@
 url: https://syncthing.darespider.family
-status: up
-code: 200
-responseTime: 941
-lastUpdated: 2022-11-29T23:13:52.031Z
+status: down
+code: 530
+responseTime: 86
+lastUpdated: 2022-11-30T02:38:12.074Z
 startTime: Sun Nov 13 2022 18:37:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
